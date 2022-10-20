@@ -1,0 +1,152 @@
+
+ 
+ 
+  <div class="row" id="Servizio Concessioni Cimiteriali"> 
+   <div class="column col-md-12 col-sm-12 col-xs-12"> 
+    <!--gm-editable-region--><h3 style="text-align: center;margin-top:0;"><strong>Al Comune di Potenza<br>Unità di Direzione Servizi Istituzionali<br>Servizio Concessioni Cimiteriali</strong></h3> 
+    <h5 style="margin-top: 0px; text-align: justify;"><strong>Oggetto: Delibera di Consiglio Comunale n° 07/2014. Richiesta di prolungamento di concessione cimiteriale trentennale di loculo comunale nel Civico Cimitero Monumentale di Borgo San Rocco.</strong><br></h5> 
+    <p><br></p> 
+    <table style="background-color:#f5f5f5;width:100%;" class="cke_show_border" cellspacing="1" cellpadding="1" border="0"> 
+     <tbody style="background-color:#f5f5f5"> 
+      <tr> 
+       <td><strong>Il/La sottoscritto/a*</strong></td> 
+       <td><br></td> 
+      </tr> 
+      <tr> 
+       <td style="width: 20%;">Cognome</td> 
+       <td class="nominativo"><input class="cognome" type="text" data-cke-editable="1" data-cke-saved-name="cognome" name="cognome" placeholder="cognome" required="true" data-validation-type="base" data-saved-regexp="" ng-model="extraData.formUser.lastName" ng-disabled="disabledFields" regexp=""></td> 
+       <td style="width: 20%;">Nome</td> 
+       <td class="nominativo"><input type="text" class="nome" data-cke-editable="1" data-cke-saved-name="nome" ng-model="extraData.formUser.firstName" placeholder="nome" ng-disabled="disabledFields" data-validation-type="base" data-saved-regexp="" name="nome" regexp=""></td> 
+      </tr> 
+      <tr> 
+       <td style="width: 20%;">Codice fiscale</td> 
+       <td class="nominativo"><input class="codicefiscale" type="text" data-cke-editable="1" data-cke-saved-name="codicefiscale" name="codicefiscale" placeholder="codice fiscale" required="true" data-validation-type="base" data-saved-regexp="" ng-model="extraData.formUser.fiscalCode" ng-disabled="disabledFields" regexp=""></td> 
+       <td></td> 
+       <td></td> 
+      </tr> 
+      <tr> 
+       <td>Nato/a il</td> 
+       <td><input type="text" data-cke-editable="1" data-cke-saved-name="dataNascita" name="dataNascita" placeholder="gg/mm/aaaa" required="true" data-validation-type="base" data-saved-regexp="" ng-model="extraData.formUser.birthDate" ng-disabled="disabledFields"></td> 
+       <td>Comune di nascita</td> 
+       <td><input type="text" data-cke-editable="1" data-cke-saved-name="cittaNascita" name="cittaNascita" placeholder="città di nascita" data-validation-type="base" data-saved-regexp="" regexp="" required="true" ng-disabled="disabledFields" ng-model="extraData.formUser.birthPlace"></td> 
+      </tr> 
+      <tr> 
+       <td><br></td> 
+       <td><br></td> 
+      </tr> 
+      <tr> 
+       <td>Comune di residenza</td> 
+       <td><input type="text" data-cke-editable="1" data-cke-saved-name="cittaResidenza" ng-model="extraData.formUser.residenceMunicipality" placeholder="città residenza" data-validation-type="base" data-saved-regexp="" name="cittaResidenza" required="true" regexp=""></td> 
+       <td>Prov.</td> 
+       <td><input type="text" data-cke-editable="1" data-cke-saved-name="provResidenza" name="provResidenza" ng-model="extraData.formUser.residenceProvince" placeholder="provincia" data-validation-type="base" data-saved-regexp="" required="true" regexp=""></td> 
+      </tr> 
+      <tr> 
+       <td>Via</td> 
+       <td><input type="text" data-cke-editable="1" data-cke-saved-name="indirizzoResidenza" name="indirizzoResidenza" ng-model="extraData.formUser.address" placeholder="via/viale/c.so..." data-validation-type="base" data-saved-regexp="" required="true" regexp=""></td> 
+       <td>N.</td> 
+       <td><input type="text" data-cke-editable="1" data-cke-saved-name="numResidenza" name="numResidenza" ng-model="extraData.formUser.residenceCnumber" placeholder="num civico" data-validation-type="base" data-saved-regexp="" regexp=""></td> 
+      </tr> 
+      <tr> 
+       <td style="width: 20%;">Email</td> 
+       <td class="nominativo"><input type="text" data-cke-editable="1" data-cke-saved-name="email" name="email" placeholder="email" required="true" data-validation-type="base" data-saved-regexp="" ng-model="extraData.formUser.email" ng-disabled="disabledFields" regexp=""></td> 
+       <td></td> 
+       <td></td> 
+      </tr> 
+      <tr> 
+       <td><br></td> 
+       <td><br></td> 
+      </tr> 
+     </tbody> 
+    </table> 
+    <table style="background-color:#f5f5f5;width:100%;" class="cke_show_border" cellspacing="1" cellpadding="1" border="0"> 
+     <tbody style="background-color:#f5f5f5"> 
+      <tr> 
+       <td style="width:20%">In qualità di</td> 
+       <td><input type="text" data-cke-editable="1" data-cke-saved-name="inqualitadi" name="inqualitadi" placeholder="in qualità di" required="true" data-validation-type="base" data-saved-regexp="" regexp=""></td> 
+       <td style="width:20%"><br></td> 
+       <td><br></td> 
+      </tr> 
+      <tr> 
+       <td>Del defunto</td> 
+       <td><br></td> 
+       <td><br></td> 
+       <td><br></td> 
+      </tr> 
+      <tr> 
+       <td>cognome</td> 
+       <td class="nominativo"><input class="cognome" type="text" data-cke-editable="1" data-cke-saved-name="cognomeDefunto" name="cognomeDefunto" placeholder="cognome" required="true" data-validation-type="base" data-saved-regexp="" regexp=""></td> 
+       <td>nome</td> 
+       <td class="nominativo"><input class="nome" type="text" data-cke-editable="1" data-cke-saved-name="nomeDefunto" name="nomeDefunto" placeholder="nome" required="true" data-validation-type="base" data-saved-regexp="" regexp=""></td> 
+      </tr> 
+      <tr> 
+       <td>Deceduto il</td> 
+       <td><input type="text" data-cke-editable="1" data-cke-saved-name="dataDefunto" name="dataDefunto" placeholder="gg/mm/aaaa" required="true" data-validation-type="base" data-saved-regexp=""></td> 
+      </tr> 
+      <tr> 
+       <td><br></td> 
+       <td><br></td> 
+       <td><br></td> 
+       <td><br></td> 
+      </tr> 
+      <tr> 
+       <td colspan="3">Tumulato nel loculo identificato dai seguenti dati:</td> 
+      </tr> 
+      <tr> 
+       <td>N.</td> 
+       <td><input type="text" data-cke-editable="1" data-cke-saved-name="numeroLoculo" name="numeroLoculo" placeholder="num loculo" data-validation-type="base" data-saved-regexp="" required="true" regexp=""></td> 
+       <td>Comparto N.</td> 
+       <td><input type="text" data-cke-editable="1" data-cke-saved-name="numComparato" name="numComparato" placeholder="num comparato" data-validation-type="base" data-saved-regexp="" required="true" regexp=""></td> 
+      </tr> 
+      <tr></tr> 
+      <tr> 
+       <td>Dell'edicola</td> 
+       <td><input type="text" data-cke-editable="1" data-cke-saved-name="edicola" name="edicola" placeholder="edicola" data-validation-type="base" data-saved-regexp="" required="true" regexp=""></td> 
+       <td>Piano N.</td> 
+       <td><input type="text" data-cke-editable="1" data-cke-saved-name="numPiano" name="numPiano" placeholder="num piano" data-validation-type="base" data-saved-regexp="" required="true" regexp=""></td> 
+      </tr> 
+      <tr> 
+       <td><br></td> 
+       <td><br></td> 
+       <td><br></td> 
+       <td><br></td> 
+      </tr> 
+     </tbody> 
+    </table> 
+    <p><br></p> 
+    <p style="text-align: justify;">a seguito concessione di cui si allega copia, avendo preso visione della Delibera di Consiglio Comunale n°07 del 24/01/2014<br></p> 
+    <p style="text-align:center;"><b>CHIEDE</b><br></p> 
+    <p><br></p> 
+    <p style="text-align: justify;">che la suddetta salma possa permanere nel medesimo loculo per ulteriori anni: <input type="text" data-cke-editable="1" data-cke-saved-name="numAnni" name="numAnni" placeholder="anni" data-validation-type="base" data-saved-regexp="" required="true" regexp="" style="width: 90px;">.<br></p><!--/gm-editable-region--> 
+   </div> 
+  </div> 
+  <div class="row" id="Allegati"> 
+   <div class="column col-md-12 col-sm-12 col-xs-12"> 
+    <!--gm-editable-region--><p style="margin-top:0;"><strong>Si allega pertanto la seguente documentazione:</strong></p> 
+    <p><br></p> 
+    <p style="text-align: justify;">1) documento d'identità in corso di validità (con indicazione del codice fiscale);<br></p> 
+    <p style="text-align:right;"><input name="btndoc1" data-cke-saved-name="btndoc1" value="Allega Documento di identita" type="button" data-cke-saved-type="upload" data-cke-editable="1" uploader-button="uploader-button" my-document-template="myDocumentTemplate" my-document="myDocument" additional-documents="additionalDocuments" extra-data="extraData" upload-required="true" uploader-module="Documento identita"></p> 
+    <p style="text-align: justify;">2) copia della originaria concessione cimiteriale;<br></p> 
+    <p style="text-align:right;"><input name="btndoc2" data-cke-saved-name="btndoc2" value="Allega Concessione cimiteriale" type="button" data-cke-saved-type="upload" data-cke-editable="1" uploader-button="uploader-button" my-document-template="myDocumentTemplate" my-document="myDocument" additional-documents="additionalDocuments" extra-data="extraData" upload-required="true" uploader-module="Concessione cimiteriale"></p> 
+    <div data-cke-hidden-sel="1" data-cke-temp="1" style="position:fixed;top:0;left:-1000px"> 
+     <br> 
+    </div> 
+    <p><br></p> 
+    <p style="margin-top:0;"><strong>Il Sottoscritto <label>si impegna</label></strong></p> 
+    <p></p> 
+    <p style="text-align: justify;">- a versare gli oneri previsti dalla Delibera di Consiglio Comunale n°07/2014 per il periodo di prolungamento indicato in seguito all'istruttoria della presente e su richiesta dell'ufficio preposto;<br></p> 
+    <p style="text-align: justify;">- a produrre l'attestazione dell'avvenuto versamento di euro <input type="text" data-cke-editable="1" data-cke-saved-name="versamento" name="versamento" placeholder="euro" data-validation-type="base" data-saved-regexp="" regexp="" required="true"> mediante c.c. postale o bonifico bancario in favore dell'Ente, con causale: PROLUNGAMENTO CONCESSIONE CIMITERIALE Capitolo di Bilancio n°320150.003;<br></p> 
+    <p style="margin-left: 40px;"><input type="checkbox" data-cke-editable="1" data-cke-saved-name="dichiarazionecheck" name="dichiarazionecheck" value="dichiarazionecheck" required=""><b>&nbsp;Presa visione e accettazione*</b></p> 
+    <p><br></p> 
+    <p class="remove-from-pdf">Indicare la modalità di Firma per il presente documento:<br></p> 
+    <p class="remove-from-pdf"><input type="radio" data-cke-editable="1" data-cke-saved-name="firmadigitale" name="firmadigitale" value="si" required="" class="dynamic_binded_control_highlight" saved-binding-ids="element-binding-div_firmadigitale;" dynamic-binded-control="">&nbsp;Firma digitale</p> 
+    <div style="background:#eee;border:1px solid #ccc;padding:5px 10px;" id="div_firmadigitale" specialdivbindingswitch="true" data-binding-id="element-binding-div_firmadigitale" class="is-bound" is-bound-to="firmadigitale-si"> 
+     <p style="text-align: right;"><strong>Il presente documento viene sottoscritto digitalmente</strong></p> 
+    </div> 
+    <p class="remove-from-pdf"><input type="radio" data-cke-editable="1" data-cke-saved-name="firmadigitale" name="firmadigitale" value="no" required="" class="dynamic_binded_control_highlight" saved-binding-ids="element-binding-divcartaidentita;" dynamic-binded-control="">&nbsp;Firma autografa</p> 
+    <div style="background:#eee;border:1px solid #ccc;padding:5px 10px;" id="divcartaidentita" specialdivbindingswitch="true" data-binding-id="element-binding-divcartaidentita" class="is-bound" is-bound-to="firmadigitale-no"> 
+     <p style="text-align: right;"><strong>FIRMA del Sottoscritto {{extraData.formUser.firstName}} {{extraData.formUser.lastName}}</strong></p> 
+     <p style="text-align: right;">_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</p> 
+    </div><!--/gm-editable-region--> 
+   </div> 
+  </div> 
+ 
